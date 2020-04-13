@@ -1,9 +1,9 @@
 {
-  "name": "my-divjoy-project",
+  "name": "bhagavad-gita-frontend",
   "version": "0.1.0",
   "private": true,
   "keywords": [
-    "divjoy"
+    "bhagavad gita"
   ],
   "dependencies": {
     "@analytics/google-analytics": "0.2.2",
